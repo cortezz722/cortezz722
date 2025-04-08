@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on create websites for companies or stores on google.
 - 📫 How to reach me texte me on manoelokada148@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/her
 - ⚡ Fun fact: I'm just start in learn programming because i don't like studying at school.
 
 <!---
